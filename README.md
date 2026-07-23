@@ -18,19 +18,21 @@
 
 ## 💫 About Me
 
-```yaml
-name: Maria Abbas
-role: MERN Stack Developer (in progress) | IT/BSIT Student
-based_in: Lahore, Pakistan
-currently_building: MERN stack projects & a developer portfolio
-currently_learning: AI Agents, Advanced MERN Development
-looking_to_collaborate: Web Development & AI projects
-looking_for_help: System Design, Backend Development, AI Engineering
-ask_me_about: JavaScript, React, Node.js, Express.js, MongoDB, Git
-fun_fact: "Every commit is a step toward becoming a better developer."
-```
-
-Also the founder of **[The Coding Muslimah](https://instagram.com/thecodingmuslimah)** — a space on Instagram where I share tech education, coding tips, and productivity content for girls exploring technology, rooted in Islamic values. 🌙💻
+> 👩‍💻 &nbsp;**Role:** MERN Stack Developer (in progress) | IT/BSIT Student
+>
+> 📍 &nbsp;**Based in:** Lahore, Pakistan
+>
+> 🔨 &nbsp;**Currently building:** MERN stack projects & a developer portfolio
+>
+> 🌱 &nbsp;**Currently learning:** AI Agents, Advanced MERN Development
+>
+> 🤝 &nbsp;**Looking to collaborate on:** Web Development & AI projects
+>
+> 🙋 &nbsp;**Looking for help with:** System Design, Backend Development, AI Engineering
+>
+> 💬 &nbsp;**Ask me about:** JavaScript, React, Node.js, Express.js, MongoDB, Git
+>
+> ⚡ &nbsp;**Fun fact:** Every commit is a step toward becoming a better developer.
 
 <br>
 
@@ -101,7 +103,6 @@ Also the founder of **[The Coding Muslimah](https://instagram.com/thecodingmusli
 - 🔭 Building end-to-end MERN projects (auth, payments, dashboards)
 - 🌱 Learning **AI Agents** and advanced MERN patterns
 - 🎯 Preparing for backend & system design interviews
-- ✍️ Growing **The Coding Muslimah** — helping more girls start coding
 
 <br>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Maria%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20MERN%20Stack%20Developer%20🚀&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Maria%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20MERN%20Stack%20Developer%20🚀&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/mariaabbas123/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
